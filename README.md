@@ -218,51 +218,7 @@ Currently building my competitive programming and coding practice presence.
 
 ---
 
-## GITHUB ANALYTICS
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hacker-Himanshu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&include_all_commits=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Himanshu&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
-
-</p>
-
----
-
-## GITHUB STREAK
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Himanshu&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD" />
-
-</p>
-
----
-
-## GITHUB TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hacker-Himanshu&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
-
-</p>
-
----
-
-## CONTRIBUTION ACTIVITY
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hacker-Himanshu&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" />
-
-</p>
-
----
 
 ## CONTRIBUTION SNAKE
 
